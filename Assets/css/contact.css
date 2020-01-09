@@ -1,0 +1,43 @@
+body {
+  background-color: #ffac31;
+  font-family: 'nunito',sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Courgette', cursive;
+}
+
+.btn {
+  background-color: rgb(40, 87, 109);
+}
+
+.btn:hover {
+  background-color: royalblue;
+}
+.navbar{
+  background-color: #1f1f1f;
+  font-size: 24px;
+  padding-bottom: 1%; 
+}
+footer a:hover{
+  text-decoration: none;
+  color: white;
+}
+footer{
+  letter-spacing: 4px;
+  line-height: 10px;
+}
+.my-font-awesome{
+  color: white;
+}
+.my-font-awesome :hover{
+    color: rgb(52, 52, 245);
+}
+.random-name-for-background{
+     background-color: rgb(40, 87, 109);
+}
+
+.a-color-i-dislike-need-to-be-here{
+  color: rgb(40, 87, 109);
+} 
+/*# sourceMappingURL=contact.css.map */
